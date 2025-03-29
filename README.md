@@ -1,3 +1,7 @@
+> Intro
+> 
+Projeto criado para servir como passo a passa para a criação de um projeto basico de livraria em django, utilizando djangorest-framework, allauth para autenticação, swagger e postgress como db.
+
 > Back end
 
 Primeiramente sera criado um ambiente virtual para que as dependencias do projeto possam ser intaladas dentro desse ambiente virtual as dependências do Django e outras bibliotecas relacionadas ao backend. Nesse projeto o ambiente virtual tera o nome de ProjetoDev
